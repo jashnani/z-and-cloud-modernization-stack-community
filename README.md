@@ -26,7 +26,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html).
 |  Product Version | OCI artifact | License |
 |-|-|-|
-| 2.0.0 | 2.0.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-PMEX-526X6D) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
+| 2.0.0 | 2.0.0.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-PMEX-526X6D) | [Release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/cpp_compiler/release_notes.html) |
 
 |  Supported Operator versions |
 |-| 
@@ -88,6 +88,9 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 |  Product Version | OCI artifact | License |
 |-|-|-|
 | 3.11.0 | 3.11.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CFMQ-2399K3) |
+| 3.10.0 | 3.10.0.5 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
+| 3.10.0 | 3.10.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
+| 3.10.0 | 3.10.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-JYIP-C7JT5W) |
 
 | Supported Operator versions | 
 |-| 
@@ -102,7 +105,10 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_release_notes_zoau.html).
 |  Product Version | OCI artifact | License |
 |-|-|-|
-| 1.2.2.1 | 1.2.2.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
+| [1.2.2.1](https://www.ibm.com/support/pages/node/1075221) | 1.2.2.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
+| 1.2.1 | 1.2.1.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
+| 1.2.0 | 1.2.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
+| 1.2.0 | 1.2.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 
 | Supported Operator versions | 
 |-| 
