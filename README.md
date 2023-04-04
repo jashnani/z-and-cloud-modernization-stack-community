@@ -73,7 +73,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_l
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/nodejs/release_notes.html).
 | Product Version | OCI artifact | License  | 
 |-|-|-|
-| [18.14.2](https://www.ibm.com/support/pages/fix-list-ibm-open-enterprise-sdk-nodejs#010422) | 18.0.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-SDPU-Z5XJSB) |
+| [18.14.2] | 18.0.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-SDPU-Z5XJSB) |
 
 | Supported Operator versions | 
 |-|
@@ -105,7 +105,7 @@ To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2
 To find out more, read the [release notes](https://www.ibm.com/docs/en/SSV97FN_2022.1.1/zoau/zstack_release_notes_zoau.html).
 |  Product Version | OCI artifact | License |
 |-|-|-|
-| [1.2.2.1](https://www.ibm.com/support/pages/node/1075221) | 1.2.2.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
+| 1.2.2.1 | 1.2.2.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 | 1.2.1 | 1.2.1.0 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 | 1.2.0 | 1.2.0.2 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
 | 1.2.0 | 1.2.0.1 | [Read here](https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-CWDG-C2AUJQ) |
